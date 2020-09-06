@@ -15,4 +15,4 @@ El funcionamiento es simple:
 - Se muestra en pantalla el tiempo actual de la ciudad junto a la temperatura en grados Celsius.
 - Las coordenadas de latitud y longitud son enviadas como parámetros a la API de Google Maps para presentar el mapa con la ubicación de la ciudad.
 
-Live preview:  [My website](https://davidpalaciosg.com/proyectos/Proyecto-Maps/proyecto.php)
+Live preview:  <a href="https://davidpalaciosg.com/proyectos/Proyecto-Maps/proyecto.php" target="_blank">My Website </a>
