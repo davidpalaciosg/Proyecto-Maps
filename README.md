@@ -1,5 +1,5 @@
 # Proyecto Maps
-Proyecto realizado en: 
+Proyecto realizado con: 
 - HTML5, CSS3, JavaScript
 - Bootsrap 4
 - PHP 7
